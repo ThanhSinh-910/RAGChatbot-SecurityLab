@@ -58,7 +58,7 @@ py -3.13 -m venv .venv
 
 ```
 GOOGLE_API_KEY=AIzaSy...key_cua_ban...
-RAG_EXPERIMENT_MODEL=gemini-2.0-flash-lite
+RAG_EXPERIMENT_MODEL=gemini-3.5-flash
 ```
 
 > **🔒 LƯU Ý BẢO MẬT:**
