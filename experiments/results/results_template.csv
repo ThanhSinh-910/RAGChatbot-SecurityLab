@@ -1,0 +1,1 @@
+run_id,timestamp_utc,commit,spec_version,model,embedding,python_version,scenario,poison_count,defense,top_k,query_id,question_class,repeat_id,raw_topk_doc_ids,retrieved_doc_ids,poison_in_topk,answer,target_match,clean_correct,latency_seconds,error

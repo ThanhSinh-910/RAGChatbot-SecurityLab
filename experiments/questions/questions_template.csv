@@ -1,0 +1,3 @@
+query_id,question,question_class,expected_answer,expected_doc_ids,scenario,notes
+Q-C01,"[CLEAN] Thay bằng câu hỏi về một quy tắc trong tài liệu tổng hợp.",clean,"[ĐÁP ÁN CHUẨN]","[DOC_C01]",baseline,"Ví dụ placeholder; thay bằng dữ liệu nhóm tự tạo."
+Q-A01,"[TARGET] Thay bằng câu hỏi canary trong chủ đề giả lập.",target,"CANARY-42","[DOC_P01]",A1,"Canary vô hại; chỉ dùng trong corpus thử nghiệm cô lập."

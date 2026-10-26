@@ -1,0 +1,12 @@
+# Tested with Python 3.13.7 on Windows.
+langchain==1.4.4
+langchain-community==0.4.2
+langchain-huggingface==1.2.3
+langchain-google-genai==4.4.0
+faiss-cpu==1.15.1
+pypdf==6.20.0
+sentence-transformers==6.1.0
+streamlit==1.65.0
+requests==2.34.2
+python-dotenv>=1.0.0
+python-docx>=1.1.0
